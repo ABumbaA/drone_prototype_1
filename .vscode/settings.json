@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "tinygps++.h": "c",
+        "tinygpsplus.h": "c",
+        "softwareserial.h": "c",
+        "common.h": "c",
+        "arduino.h": "c",
+        "hardwareserial.h": "c"
+    }
+}
